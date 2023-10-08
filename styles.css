@@ -7,6 +7,7 @@
     align-items: center;
     padding: 10px;
     text-align: left;
+    flex: 1;
 }
 .logo {
     display: flex;
@@ -39,9 +40,27 @@
 .text {
     float: inline-end;
     padding: 200px;
-    
 }
-.h1 {
-    font-weight: bolder;
+.speciality {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #fff;
+    width: 600px;
+}
+.speciality1 {
+    width: 100px;
+    height: auto;
+}
+.speciality2 {
+    width: 100px;
+    height: auto;
+}
 
+.speciality3 {
+    width: 100px;
+    height: auto;
 }
+
+
