@@ -1,0 +1,47 @@
+.Menu {
+    background-color: #1f2937;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    padding: 10px;
+    text-align: left;
+}
+.logo {
+    display: flex;
+    width: 70px;
+    
+}
+.menu-items {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 20px;
+}
+.welcome {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e5e7eb57;
+    color: black;
+
+}
+
+.welcome-image {
+    display: flexbox;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
+.text {
+    float: inline-end;
+    padding: 200px;
+    
+}
+.h1 {
+    font-size: xx-large;
+
+}
